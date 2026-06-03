@@ -17,7 +17,7 @@ Developed an interactive Power BI dashboard using a cleaned Zomato restaurant da
 - Table booking availability
 
 ## Dashboard
-[zomato dashboard](Dashboard.png)
+[Zomato Dashboard](Zomato%20Dashboard.png)
 
 ## Dataset
 Cleaned Zomato restaurant dataset containing restaurant details, ratings, votes, and pricing information.
